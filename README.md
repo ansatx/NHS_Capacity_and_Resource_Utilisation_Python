@@ -2,7 +2,7 @@
 📊 NHS Healthcare Utilisation & Capacity Analysis.
 As part of a data analytics team contracted by the National Health Service (NHS) in England, our objective was to analyze internal and external datasets to address key questions related to service utilisation, missed appointments, and the potential value of external data sources (e.g., social media data from X, formerly Twitter).
 
-🎯 Project Scope
+🎯 Project Scope.
 The NHS is facing increasing pressure to expand its infrastructure in response to a growing population. However, stakeholder opinions are divided—some advocate for expansion, while others believe existing infrastructure can be optimized with better resource utilization. Our role involved:
 
 Refining high-level business questions into actionable analytical questions.
