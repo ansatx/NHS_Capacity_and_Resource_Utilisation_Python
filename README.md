@@ -1,5 +1,5 @@
 # NHS_Capacity_and_Resource_Utilisation_Python
-📊 NHS Healthcare Utilisation & Capacity Analysis
+📊 NHS Healthcare Utilisation & Capacity Analysis.
 As part of a data analytics team contracted by the National Health Service (NHS) in England, our objective was to analyze internal and external datasets to address key questions related to service utilisation, missed appointments, and the potential value of external data sources (e.g., social media data from X, formerly Twitter).
 
 🎯 Project Scope
